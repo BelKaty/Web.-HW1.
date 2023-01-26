@@ -8,16 +8,23 @@
 B связи с тем, что сайт yandex.ru отсылает на сайт dzen.ru, с Вашего позволения, буду выполнять задание на yandex.com.
 
 1. Определите, на каком протоколе работает сайт.
+
 ![адрес](https://github.com/BelKaty/Web.-HW1./blob/08d00f221acd1d9d31769f9b0c4939087258ee90/pic1.png)
 
 2. Проанализируйте структуру страницы сайта.
+
 ![структура](https://github.com/BelKaty/Web.-HW1./blob/08d00f221acd1d9d31769f9b0c4939087258ee90/pic2.png)
 
 3. Внесите не менее 10 изменений на страницу с помощью инструмента разработчика и представьте скриншоты было/стало.
+
 было
+
 ![было](https://github.com/BelKaty/Web.-HW1./blob/08d00f221acd1d9d31769f9b0c4939087258ee90/pic3.png)
+
 стало
+
 ![стало](https://github.com/BelKaty/Web.-HW1./blob/08d00f221acd1d9d31769f9b0c4939087258ee90/pic4.png)
 
 4. Создайте прототип низкой детализации.
+
 ![макет](https://github.com/BelKaty/Web.-HW1./blob/08d00f221acd1d9d31769f9b0c4939087258ee90/pic5.png)
